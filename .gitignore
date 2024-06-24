@@ -22,3 +22,5 @@
 .cspellcache
 package-lock.json
 src/dist
+**/out.json
+/dist
